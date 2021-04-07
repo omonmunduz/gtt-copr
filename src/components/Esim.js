@@ -1,4 +1,4 @@
-import esimDesk from "../images/esimDesktop.png";
+import cutEsim from "../images/cutEsim.png";
 
 const PortableWifi = () => {
   return (
@@ -24,7 +24,7 @@ const PortableWifi = () => {
         </p>
       </div>
       <div className="container flex md:w-3/4 m-auto xl:w-2/4 relative p-3">
-        <img src={esimDesk} alt="SkyGo eSIM website, desktop vesrion" />
+        <img src={cutEsim} alt="SkyGo eSIM website, desktop vesrion" />
       </div>
     </div>
   );
