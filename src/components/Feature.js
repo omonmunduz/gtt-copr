@@ -100,8 +100,7 @@ const Feature = () => {
                 </p>
               </dt>
               <dd className="mt-2 ml-16 text-base text-gray-500">
-                Do you need new inventory? Or maybe you need to connect your
-                customers? No matter what is the issue we got you covered.
+                With state of the art technology.GTT's products are made to simply connect as easy as "plug n play".
               </dd>
             </div>
 
