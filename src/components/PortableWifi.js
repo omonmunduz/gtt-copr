@@ -24,7 +24,7 @@ const PortableWifi = () => {
         </p>
       </div>
       <div className="container flex md:w-3/4 m-auto xl:w-2/4 relative p-3">
-        <img src={cutWifi} alt="portable wifi website, desktop vesrion" />
+        <img src={cutWifi} alt="portable wifi website, desktop vesrion"className="m-h-20" />
       </div>
     </div>
   );
